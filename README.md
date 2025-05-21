@@ -29,6 +29,11 @@ print(f"Size of dic1: {sys.getsizeof(dic1)}bytes")
 print(f"Size of dic2: {sys.getsizeof(dic2)}bytes")
 print(f"Size of dic3: {sys.getsizeof(dic3)}bytes")
 ```
+
+
+
+
+
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/c04d58b1-b6a9-4753-a88e-db8914bc73c6)
 
