@@ -17,7 +17,11 @@ Step 5:	  Print the size value of dic1, dic2,dic3.
 Step 6:	 Terminate the program.
 
 ### PROGRAM
-```import sys
+```
+#Name:Gowtham IK
+#Reg no:212222090008
+
+import sys
 dic1 = {"A": 1, "B": 2, "C": 3}
 dic2 = {"Geek1": "Raju", "Geek2": "Nikhil", "Geek3": "Deepanshu"}
 dic3 = {1: "Lion", 2: "Tiger", 3: "Fox", 4: "Wolf"}
@@ -52,7 +56,11 @@ Step 6:	 If there is an error during conversion (for example, if the input is no
 
 Step 7:	 Terminate the program.
 ### PROGRAM
-```input_str=input()
+```
+#Name:Gowtham IK
+#Reg no:212222090008
+
+input_str=input()
 grades=input_str.split(',')
 try:
     l1=[int(item) for item in grades]
@@ -95,6 +103,9 @@ Step 9:	 Return the dictionary d1, which contains the frequency of each characte
 Step 10:	 Terminate the program.
 ### PROGRAM
 ```
+#Name:Gowtham IK
+#Reg no:212222090008
+
 input_str=input()
 grades=input_str.split(',')
 try:
@@ -138,6 +149,9 @@ Step 7:	 Call the rain method of the umbrella class, passing the user-provided r
 Step 8:	 Terminate the program.
 ### PROGRAM
 ```
+#Name:Gowtham IK
+#Reg no:212222090008
+
 import math
 class umbrella:
     def rain(self,r):
@@ -183,7 +197,11 @@ Step 10:	 If the choice is not 1, 2, or 0, print "Invalid choice"
 
 Step 11:	   Terminate the program.
 ### PROGRAM
-```class Saveetha:
+```
+#Name:Gowtham IK
+#Reg no:212222090008
+
+class Saveetha:
     def __init__(self):
         self.a = 0
         self.b = 0
